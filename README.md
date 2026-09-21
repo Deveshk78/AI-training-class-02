@@ -1,4 +1,4 @@
-# AI Interview Lab: Temporal RAG, Agentic RAG, and Multimodal AI
+# AI Training Lab: Temporal RAG, Agentic RAG, and Multimodal AI
 
 This workspace is designed as a hands-on, interview-ready learning path covering:
 
